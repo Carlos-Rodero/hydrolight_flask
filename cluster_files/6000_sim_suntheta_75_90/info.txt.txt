@@ -1,0 +1,5 @@
+all_wavelength: significa que hem agafat totes les longituds d'ona i totes les fondàries. Representaria les nostres condicions ideals d'obtenir mesures.
+all_sensor: hem normalitzat les longituds d'ona que rebem per les RGB del nostre sensor, i a la vegada estan normalitzades entre elles. Mesurem totes les fondàries.
+distances_sensor: normalitzem longituds d'ona que rebem del nostre sensor, normalitzades entre elles, a unes distàncies determinades.
+distances_sensor_error: normalitzem longituds d'ona per les del nostre sensor, les normalitzem entre elles, a distàncies determinades, i afegint un error aleatori per sensor ubicat a x fondària. 
+
